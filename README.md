@@ -49,7 +49,7 @@ What I take from it:
   `is`. An agent that follows "Did you mean browse fill?" after typing `kill` is worse
   off than one that gets no suggestion.
 - Allowing 0 edits for 1-2 letter tokens and 1 edit for 3-4 letter tokens removes 7 of
-  those 8 wrong suggestions. The cost is 0.8% of typos (45 cases) that now get no
+  those 8 wrong suggestions. The cost is 0.8% of typos (48 cases) that now get no
   suggestion, mostly 2-letter leftovers of 3-letter commands like `gt` for `get` and
   `tb list`. That's a tradeoff, not a free win.
 - Aliases are the only thing that helps the guesses much (6/30 to 17/30), since a word
