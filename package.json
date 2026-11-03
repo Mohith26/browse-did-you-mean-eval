@@ -1,0 +1,1 @@
+{ "name": "browse-did-you-mean-eval", "private": true, "type": "module", "dependencies": { "browse": "0.11.3" } }

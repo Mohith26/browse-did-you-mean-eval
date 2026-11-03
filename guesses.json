@@ -1,0 +1,12 @@
+{
+  "_note": "Hand-labeled by me. Each guess maps to the browse 0.11.3 command(s) I think the user meant; [] means no command is a good match, so the right answer is no suggestion.",
+  "ls": [], "list": [], "js": ["eval"], "pdf": [], "console": [],
+  "tabs": ["tab:list"], "tab": ["tab:list"], "newtab": ["tab:new"], "new-tab": ["tab:new"],
+  "close": ["stop", "tab:close"], "quit": ["stop"], "exit": ["stop"], "kill": ["stop"],
+  "visit": ["open"], "goto": ["open"], "navigate": ["open"],
+  "refresh": ["reload"], "evaluate": ["eval"],
+  "hover": ["mouse:hover"], "scroll": ["mouse:scroll"], "drag": ["mouse:drag"],
+  "title": ["get"], "url": ["get"], "html": ["get"], "text": ["get"],
+  "session": ["cloud:sessions:list"], "sessions": ["cloud:sessions:list"],
+  "keyboard": ["press"], "screenshots": ["screenshot"], "snap": ["snapshot"]
+}
